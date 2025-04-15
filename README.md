@@ -24,7 +24,7 @@ Advanced Python Botnet Framework 💀
 
 ## Installation (Kali/Termux)
 ```bash
-sudo apt update && apt install python3 git -y
+ apt update && apt install python3 git -y
 git clone https://github.com/H4S4NX509/SKULL-CRUSHER.git
 cd SKULL-CRUSHER
 pip install -r requirements.txt
